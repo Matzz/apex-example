@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+  <property>
+    <name>apex.attr.MASTER_MEMORY_MB</name>
+    <value>1024</value>
+  </property>
+  <property>
+    <name>aptest.attr.CHECKPOINT_WINDOW_COUNT</name>
+    <value>1</value>
+  </property>
+</configuration>
