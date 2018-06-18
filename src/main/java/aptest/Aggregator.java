@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class Aggregator extends BaseOperator {
-    transient List<Double> state = new LinkedList<Double>();
+    List<Double> state = new LinkedList<Double>();
     public final transient DefaultOutputPort<List<Double>> out = new DefaultOutputPort<List<Double>>();
 
 
