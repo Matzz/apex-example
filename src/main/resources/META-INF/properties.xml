@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <configuration>
   <property>
-    <name>aptest.attr.CHECKPOINT_WINDOW_COUNT</name>
+    <name>apex.attr.CHECKPOINT_WINDOW_COUNT</name>
     <value>1</value>
   </property>
 </configuration>
